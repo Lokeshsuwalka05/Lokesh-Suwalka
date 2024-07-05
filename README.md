@@ -20,7 +20,7 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/your-portfolio.git
+    git clone https://github.com/Lokeshsuwalka05/Lokesh-Suwalka.git
     ```
 2. Navigate to the project directory:
     ```bash
@@ -43,11 +43,10 @@ Feel free to explore the website and learn more about my skills and projects. Yo
 ## Contributing
 Contributions are welcome! If you have any suggestions or improvements, please open an issue or submit a pull request.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
 
 ## Contact
-You can reach me at [your-email@example.com] or connect with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin).
+You can reach me at [lokeshsuwalka2002@gmail.com] or connect with me on [LinkedIn](https://www.linkedin.com/in/lokesh-suwalka-899365241/).
 
 ---
 
